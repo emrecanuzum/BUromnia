@@ -3,7 +3,5 @@
 npm i
 <br>
 npm run start:dev
-bundan sonra çalışan terminali işin bitene kadar kapatma
-
-
-bundan sonra react kısmına geç istediğini yap
+<hr>
+After that, run the terminal when you want to make project online. At the end, you need to go to the Front-end part and run "npm i" and "npm start" commands again for that.
