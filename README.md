@@ -6,5 +6,4 @@ typescript-starter for back-end
 bromniafront for front-end
 
 #
-<br>
 System designed by Lead Dev. Goktug Oguz Gungor and configured and by Emrecan Üzüm
