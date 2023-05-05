@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.app-container{
+  width: 20vw;
+  margin-top: 30vh;
+  margin-left: 40vw;
+  margin-right: 40vw;
+  background-color: aliceblue;
+  border: 3px solid rgb(0, 0, 0);
+  border-radius: 1vw;
+}
+
+.app-container button{
+  margin-bottom: 2vw;
+}
